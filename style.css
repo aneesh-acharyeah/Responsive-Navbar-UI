@@ -1,0 +1,39 @@
+/* Navbar styles */
+.navbar {
+    background-color: #fff;
+    border-bottom: 2px solid #eee;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link i {
+    margin-right: 8px;
+    color: #007bff;
+}
+
+/* Hover Effects */
+.nav-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.navbar-toggler {
+    border: none;
+    outline: none;
+}
+
+
+@media (max-width: 992px) {
+    .navbar-collapse {
+        background-color: #f8f9fa;
+        padding: 1rem;
+    }
+}
