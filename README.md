@@ -16,5 +16,4 @@ To use this navigation bar in your project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Responsive-Navbar-UI.git
-
+   git clone https://github.com/aneesh-acharyeah/Responsive-Navbar-UI.git
